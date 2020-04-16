@@ -157,17 +157,13 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
 
 - **Guloso**
   
+  
   https://youtu.be/jK3d_GLzKQA + https://youtu.be/AJOTgHYjL6A (variação do problema de
   scheduling)
-  
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/guloso.html
-  
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/intervalos.html
-  
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/MST.html
-  
   http://www.ic.unicamp.br/~meidanis/courses/mo417/2003s1/aulas/2003-04-09.html
-  
   http://www.bowdoin.edu/~ltoma/teaching/cs231/fall05/Lectures/greedy.pdf
   
   
@@ -175,7 +171,6 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
 - **Mochila fracionária**
 
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/mochila-frac.html
-
   https://www.geeksforgeeks.org/fractional-knapsack-problem/
 
   
@@ -183,34 +178,23 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
 - **Programação dinâmica: o problema da mochila**
 
   https://youtu.be/OQ5jsbhAv_M
-
   https://youtu.be/P8Xa2BitN3I
-
   https://youtu.be/wFP5VHGHFdk
-
   https://youtu.be/0awkct8SkxA e
-
   https://youtu.be/27nK8C-GCPM e 
-
   https://youtu.be/jlHIBaUizOU e
-
   https://youtu.be/KX_6OF8X6HQ
-
   https://youtu.be/F-wu-wkdv-Mhttps://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/dynamic-programming.html
-
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/mochila-bool.html#prog-din
 
   
 
 - **Alinhamento de sequências com PD**
+
   https://youtu.be/bLgkCPm5btY e
-
-   https://youtu.be/jPKsP60ay6Y
-
+  https://youtu.be/jPKsP60ay6Y
   https://youtu.be/ocZMDMZwhCY
-
   http://www.ppgia.pucpr.br/~alceu/mestrado/edit_distance.pdf
-
   https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_Levenshtein (sim, a Wikipedia está boa para esse tópico)
 
   
@@ -218,57 +202,41 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
 - **PD em grafos - Caminhos mínimos**
 
   https://youtu.be/lyw4FaxrwHg
-
   https://youtu.be/aJ_2c9NVCIc
-
   https://youtu.be/4OQeCuLYj-4
-
   https://youtu.be/vEztwiTELWs
-
   https://youtu.be/ozsuci5pIso
-
   http://www2.ic.uff.br/~kmochetti/courses/TCC284/files/aula07.pdf
-
   http://professor.ufabc.edu.br/~leticia.bueno/classes/teoriagrafos/materiais/bellmanford.pdf
-
   http://professor.ufabc.edu.br/~leticia.bueno/classes/teoriagrafos/materiais/floydwarshall.pdf
 
   
 
 - **PD: Árvore de Busca Ótima**
+
   https://youtu.be/oYlJUTVklc8 + https://youtu.be/KH0eh1mdbso + https://youtu.be/MPzknJXF6Zw
-
   https://youtu.be/MPzknJXF6Zw + https://youtu.be/9_U8RYsx5L4
-
   https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/
 
   
 - **Classes P, NP e NP-Completo + Problemas NP-Completo + Heurísticas e aproximações +**
   **reduções**
+
   https://www.youtube.com/watch?v=wsvXnmUHJX8
-
   https://www.youtube.com/watch?v=YX40hbAHx3s
-
   https://youtu.be/eHZifpgyH_4
-
   https://youtu.be/-WBgfIaPKDU + 
-
   https://youtu.be/laYqconr5jk +
-
-   https://youtu.be/bcWthrdEQSM +
-
+  https://youtu.be/bcWthrdEQSM +
   https://youtu.be/V3zO9oIKukw
-
   https://youtu.be/jx3SkD3mIK8
-
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/NPcompleto.html
 
   
 
 - **Algoritmos Exatos para problemas NP**
+
   https://youtu.be/eoA3-OJ0a1A
-
   https://youtu.be/lu8-Kcd--Xw + https://youtu.be/9XpC-xcdTaE
-
   https://youtu.be/oUMUW4FZgOk + https://youtu.be/vBo_zJi09CM
 
