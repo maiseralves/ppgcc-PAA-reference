@@ -1,7 +1,10 @@
 # Referências de estudo PAA - Sugeridas
 Referências de estudo para a disciplina de Projeto e Análise de Algoritmos - PPGCC UFSCar -sugeridas pelo professor Dr. Diego Furtado Silva do Departamento de Computação
 
+
+
 - **Alguns pre-requisitos:**
+
   https://www.ime.usp.br/~pf/algoritmos/aulas/recu.html
 
   https://www.ime.usp.br/~pf/algoritmos/aulas/docu.html#invariants
@@ -9,6 +12,7 @@ Referências de estudo para a disciplina de Projeto e Análise de Algoritmos - P
   
 
 - **Motivação e conceitos iniciais:**
+
   https://youtu.be/JCbZayFr9RE
 
   https://youtu.be/bhfhmre-QxU
@@ -16,11 +20,16 @@ Referências de estudo para a disciplina de Projeto e Análise de Algoritmos - P
   
 
 - **Análise de complexidade:**
-Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
 
+  
 
+  Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
 
-- **Notações O, Omega, theta (em português):** 
+  
+
+- **Notações O, Omega, theta (em português):**
+
+  
 
   https://youtu.be/ojCAnD7vrOY e https://youtu.be/DNX4sTlrfwo
 
@@ -31,6 +40,9 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
   
 
 - **Heapsort**
+
+  
+
   Build-heap em tempo linear: https://youtu.be/MiyLo8adrWw
 
   Heap sort (Sedgewick): https://youtu.be/g6zWW4M6BCc
@@ -44,6 +56,9 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
   
 
 - **Divisão e conquista: contagem de inversões e multiplicação de Strassen**
+
+  
+
   Contando inversões: https://youtu.be/4IvYaOY8Pxw
 
   Strassen: https://youtu.be/ORrM-aSNZUs
@@ -57,6 +72,9 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
   
 
 - **Teorema mestre**
+
+  
+
   Vídeos do Tim Roughgarden: https://youtu.be/rXiojCN9nIs https://youtu.be/4l1MvY7iGhs
   https://youtu.be/6BVNhKm0vpE https://youtu.be/zMYHz5s45T4 e https://youtu.be/cVni6SJrsFw
 
@@ -69,6 +87,9 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
   
 
 - **Par mais próximo (divisão e conquista)**
+
+  
+
   https://youtu.be/frr_Pg6Yb4c
 
   https://youtu.be/jAigdwcATNw
@@ -82,7 +103,11 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
   
 
 - **Quicksort (divisão e conquista + aleatoriedade)**
+
   Alerta: há algoritmos de partição diferentes daquele dado em aula. Todos (os que fazem sentido) são O(n) e igualmente "bons".
+
+  
+
   https://youtu.be/lJd7vhhCclg (aqui tem a prova do caso médio)
 
   https://youtu.be/Hoixgm4-P4M
@@ -96,6 +121,8 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
   
 
 - **Algoritmos Gulosos e Problema do Escalonamento + problema da Seleção de Atividades**
+
+  
 
   https://youtu.be/NTFmxA3qgoo
 
@@ -113,6 +140,9 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
   
 
 - **Grafos e busca em grafos (isso é pré-requisito, mas coloquei aqui para revisão)**
+
+  
+
   https://youtu.be/MC0u4f334mI
 
   https://www.youtube.com/playlist?list=PLe-ggMe31CTc0zDzANxl4I2MhMoRVlbRM
@@ -129,6 +159,8 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
 
   **Caminhos mínimos em grafos ponderados: algoritmo de Djikstra (algoritmos gulosos)**
 
+  
+
   https://youtu.be/ovkITlgyJ2s
 
   https://youtu.be/oJ9iR9QRsl0
@@ -140,6 +172,8 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
   
 
 - **AGMs e Union-Find**
+
+  
 
   https://youtu.be/jsvOPssDVJA
 
@@ -157,7 +191,6 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
 
 - **Guloso**
   
-  
   https://youtu.be/jK3d_GLzKQA + https://youtu.be/AJOTgHYjL6A (variação do problema de
   scheduling)
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/guloso.html
@@ -170,6 +203,8 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
   
 - **Mochila fracionária**
 
+  
+
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/mochila-frac.html
   https://www.geeksforgeeks.org/fractional-knapsack-problem/
 
@@ -177,66 +212,109 @@ Básico: https://youtu.be/QfRSeibcugw e https://youtu.be/-yP11jqilwM
 
 - **Programação dinâmica: o problema da mochila**
 
+  
+
   https://youtu.be/OQ5jsbhAv_M
+
   https://youtu.be/P8Xa2BitN3I
+
   https://youtu.be/wFP5VHGHFdk
+
   https://youtu.be/0awkct8SkxA e
+
   https://youtu.be/27nK8C-GCPM e 
+
   https://youtu.be/jlHIBaUizOU e
+
   https://youtu.be/KX_6OF8X6HQ
+
   https://youtu.be/F-wu-wkdv-Mhttps://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/dynamic-programming.html
+
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/mochila-bool.html#prog-din
 
   
 
 - **Alinhamento de sequências com PD**
 
+  
+
   https://youtu.be/bLgkCPm5btY e
+
   https://youtu.be/jPKsP60ay6Y
+
   https://youtu.be/ocZMDMZwhCY
+
   http://www.ppgia.pucpr.br/~alceu/mestrado/edit_distance.pdf
+
   https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_Levenshtein (sim, a Wikipedia está boa para esse tópico)
 
   
 
 - **PD em grafos - Caminhos mínimos**
 
+  
+
   https://youtu.be/lyw4FaxrwHg
+
   https://youtu.be/aJ_2c9NVCIc
+
   https://youtu.be/4OQeCuLYj-4
+
   https://youtu.be/vEztwiTELWs
+
   https://youtu.be/ozsuci5pIso
+
   http://www2.ic.uff.br/~kmochetti/courses/TCC284/files/aula07.pdf
+
   http://professor.ufabc.edu.br/~leticia.bueno/classes/teoriagrafos/materiais/bellmanford.pdf
+
   http://professor.ufabc.edu.br/~leticia.bueno/classes/teoriagrafos/materiais/floydwarshall.pdf
 
   
 
 - **PD: Árvore de Busca Ótima**
 
+  
+
   https://youtu.be/oYlJUTVklc8 + https://youtu.be/KH0eh1mdbso + https://youtu.be/MPzknJXF6Zw
+
   https://youtu.be/MPzknJXF6Zw + https://youtu.be/9_U8RYsx5L4
+
   https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/
 
   
 - **Classes P, NP e NP-Completo + Problemas NP-Completo + Heurísticas e aproximações +**
   **reduções**
 
+  
+
   https://www.youtube.com/watch?v=wsvXnmUHJX8
+
   https://www.youtube.com/watch?v=YX40hbAHx3s
+
   https://youtu.be/eHZifpgyH_4
+
   https://youtu.be/-WBgfIaPKDU + 
+
   https://youtu.be/laYqconr5jk +
+
   https://youtu.be/bcWthrdEQSM +
+
   https://youtu.be/V3zO9oIKukw
+
   https://youtu.be/jx3SkD3mIK8
+
   https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/NPcompleto.html
 
   
 
 - **Algoritmos Exatos para problemas NP**
 
+  
+
   https://youtu.be/eoA3-OJ0a1A
+
   https://youtu.be/lu8-Kcd--Xw + https://youtu.be/9XpC-xcdTaE
+
   https://youtu.be/oUMUW4FZgOk + https://youtu.be/vBo_zJi09CM
 
